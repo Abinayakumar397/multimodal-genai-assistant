@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+venv/
+__pycache__/
+*.pyc
+
+.env
+.env.*
+!.env.example
+venv/
+__pycache__/
+*.pyc
+
+data/genai.pdf
+data/chunks.pkl
+data/vectors.index

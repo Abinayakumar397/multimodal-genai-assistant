@@ -1,0 +1,8 @@
+faiss-cpu
+PyPDF2
+numpy
+sentence-transformers
+python-dotenv
+openai
+huggingface_hub
+youtube-transcript-api
